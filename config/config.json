@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "password",
+    "database": "travel_database_development",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "password",
+    "database": "travel_database_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "travel_blog_backend_user",
+    "password": "eeOMJ0Wt7gSsuY5FKosAQIMSuRTuiCLx",
+    "database": "travel_blog_backend",
+    "host": "dpg-cg3a2uhmbg5fch3lmve0-a",
+    "dialect": "postgres"
+  }
+}
